@@ -1,1 +1,1 @@
-web: gunicorn YTDApp.wsgi --log-file -
+web: gunicorn RestAPI.wsgi --log-file -
